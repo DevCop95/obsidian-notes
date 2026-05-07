@@ -1,0 +1,14 @@
+{
+  "autoSaveInterval": 10,
+  "autoPushInterval": 0,
+  "pushOnCommit": true,
+  "autoPullInterval": 10,
+  "autoPullOnBoot": true,
+  "pullBeforePush": true,
+  "commitMessage": "vault backup: {{date}}",
+  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "autoCommitMessage": "vault backup: {{date}}",
+  "disablePush": false,
+  "updateSubmodules": true,
+  "gitExecutable": ""
+}
